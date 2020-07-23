@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\bin\Debug\netcoreapp3.1\RapportCQRS.Reporting.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\bin\Debug\netcoreapp3.1\RapportCQRS.Reporting.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\bin\Debug\netcoreapp3.1\RapportCQRS.Reporting.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\obj\Debug\netcoreapp3.1\RapportCQRS.Reporting.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\obj\Debug\netcoreapp3.1\RapportCQRS.Reporting.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\obj\Debug\netcoreapp3.1\RapportCQRS.Reporting.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\obj\Debug\netcoreapp3.1\RapportCQRS.Reporting.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\obj\Debug\netcoreapp3.1\RapportCQRS.Reporting.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Reporting\obj\Debug\netcoreapp3.1\RapportCQRS.Reporting.pdb

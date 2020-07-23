@@ -1,0 +1,16 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Service.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Service.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Service.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Data.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Model.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Data.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\bin\Debug\netcoreapp3.1\RapportCQRS.Model.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Service\obj\Debug\netcoreapp3.1\RapportCQRS.Service.csproj.CopyComplete

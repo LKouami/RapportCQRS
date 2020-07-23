@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+	
+	 <ItemGroup>
+    <ProjectReference Include="..\RapportCQRS.Domain\RapportCQRS.Domain.csproj" />
+    <ProjectReference Include="..\RapportCQRS.Model\RapportCQRS.Model.csproj" />
+  </ItemGroup>
+	
+<ItemGroup>
+    <PackageReference Include="App.Metrics.AspNetCore.Core" Version="3.2.0" />
+    <PackageReference Include="App.Metrics.AspNetCore.Mvc" Version="3.2.0" />
+    <PackageReference Include="MediatR" Version="8.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="6.0.1" />
+
+   <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.1" />
+<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.1" Condition="'$(Configuration)' == 'Debug'" />
+<PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
+<PackageReference Include="Serilog.Sinks.File" Version="4.1.0" />
+<PackageReference Include="Serilog.Sinks.Seq" Version="4.0.0" />
+  </ItemGroup>
+
+</Project>

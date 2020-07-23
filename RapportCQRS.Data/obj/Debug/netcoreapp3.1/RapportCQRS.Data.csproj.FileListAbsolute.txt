@@ -1,0 +1,17 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Data.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Data.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Data.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Data.runtimeconfig.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Data.runtimeconfig.dev.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Model.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\bin\Debug\netcoreapp3.1\RapportCQRS.Model.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.csproj.CopyComplete
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Data\obj\Debug\netcoreapp3.1\RapportCQRS.Data.genruntimeconfig.cache

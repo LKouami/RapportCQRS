@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RapportCQRS.API</name>
+    </assembly>
+    <members>
+        <member name="M:RapportCQRS.API.App_Start.Dependencies_Start.ResolveDepenciesServices(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Resolve all the dependencies in the application
+            </summary>
+            <param name="services"></param>
+            <param name="Configuration"></param>
+        </member>
+        <member name="T:RapportCQRS.API.Controllers.ValuesController">
+            <summary>
+            Get all
+            </summary>
+        </member>
+        <member name="M:Employee.API.Extensions.UseAutoMigrateDatabase``1(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+                Auto migrate version of database from migrations
+            </summary>
+        </member>
+    </members>
+</doc>

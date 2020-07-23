@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.runtimeconfig.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Domain.runtimeconfig.dev.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Model.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\bin\Debug\netcoreapp3.1\RapportCQRS.Model.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.csproj.CopyComplete
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Domain\obj\Debug\netcoreapp3.1\RapportCQRS.Domain.genruntimeconfig.cache

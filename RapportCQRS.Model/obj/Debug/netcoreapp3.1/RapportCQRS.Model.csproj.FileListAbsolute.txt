@@ -1,0 +1,12 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\bin\Debug\netcoreapp3.1\RapportCQRS.Model.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\bin\Debug\netcoreapp3.1\RapportCQRS.Model.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\bin\Debug\netcoreapp3.1\RapportCQRS.Model.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\bin\Debug\netcoreapp3.1\RapportCQRS.Model.runtimeconfig.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\bin\Debug\netcoreapp3.1\RapportCQRS.Model.runtimeconfig.dev.json
+C:\Users\acer\Documents\Programmation\ASP CORE\RapportCQRS\RapportCQRS.Model\obj\Debug\netcoreapp3.1\RapportCQRS.Model.genruntimeconfig.cache
